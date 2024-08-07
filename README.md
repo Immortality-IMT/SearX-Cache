@@ -10,11 +10,11 @@ To use:
 
 Edit some source files
 Unpack the cache to the correct location: /usr/local/searxng/searxng-src/searx/
-
+```
 sudo tar -xvf /usr/local/searxng/searxng-src/searx/ cache.tar.gz
 sudo chown -R searxng:searxng /usr/local/searxng/searxng-src/searx/cache
 sudo chmod -R 755 /usr/local/searxng/searxng-src/searx/cache
-
+```
 To contribute to the cache:
 
 Run the robot and then send your cache.
