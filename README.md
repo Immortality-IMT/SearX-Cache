@@ -1,6 +1,6 @@
 # SearX-Cache
 
-Speed up SearX with a caching system for SearX or SearXNG. Turn on all the engines and cache the result, then reload the cached version fast.
+Speed up SearX with a caching system for SearX or SearXNG. Turn on all the engines, aggregate then cache the result, reload the cached version fast. 
 
 An open source disributed database that provides a caching system for searx to speed up repeated searches.
 
