@@ -13,6 +13,7 @@ Unpack the cache to the correct location
 
 To contribute to the cache:
 
-Run new queries and send your results, add to the cache, update the cache.
+Run the robot and then send your cache.
+Use searx and then send your cache.
 
 More info: https://www.imtcoin.com/kb.php?page=Caching+SearXNG+Version+2
