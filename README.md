@@ -9,6 +9,7 @@ Note: if you run a public instance, please disclose to your users that the resul
 To use:
 
 Edit some source files
+
 Unpack the cache to the correct location: /usr/local/searxng/searxng-src/searx/
 ```
 sudo tar -xvf cache.tar.gz -C /usr/local/searxng/searxng-src/searx/
