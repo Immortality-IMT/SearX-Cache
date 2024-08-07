@@ -1,5 +1,7 @@
-# SearX-SpeedUp-Cache
-A caching system for SearX or SearXNG.
+# SearX-Cache
+
+Speed up SearX with a caching system for SearX or SearXNG.
+
 An open source disributed database that provides a caching system for searx to speed up repeated searches.
 
 Note: if you run a public instance, please disclose to your users that the results of their queries are being cached.
@@ -11,6 +13,6 @@ Unpack the cache to the correct location
 
 To contribute to the cache:
 
-Run queries and send an updated cache. This is one universal cache.
+Run new queries and send your results, add to the cache, update the cache.
 
 More info: https://www.imtcoin.com/kb.php?page=Caching+SearXNG+Version+2
