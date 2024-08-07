@@ -17,3 +17,5 @@ Run the robot and then send your cache.
 Use searx and then send your cache.
 
 More info: https://www.imtcoin.com/kb.php?page=Caching+SearXNG+Version+2
+
+The code changes follow the latest stable version of searxng.
