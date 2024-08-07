@@ -4,7 +4,7 @@ Speed up SearX with a caching system for SearX or SearXNG.
 
 An open source disributed database that provides a caching system for searx to speed up repeated searches.
 
-Note: if you run a public instance, please disclose to your users that the results of their queries are being cached.
+Note: if you run a public instance, please disclose to your users that the results of their queries are being cached. Project has no affiliation or authorization with searx or searxng.
 
 To use:
 
