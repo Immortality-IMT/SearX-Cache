@@ -1,4 +1,4 @@
-# SearX-Cache
+# SearX-SpeedUp-Cache
 A caching system for SearX or SearXNG.
 An open source disributed database that provides a caching system for searx to speed up repeated searches.
 
